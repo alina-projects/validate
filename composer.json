@@ -1,12 +1,13 @@
 {
-    "name": "composer/validate",
+    "name": "package/validate",
     "description": "validate data from a form",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Composer\\Validate\\": "src/"
+            "Package\\Validate\\": "src/"
         }
     },
+    "minimum-stability": "beta",
     "require": {}
 }

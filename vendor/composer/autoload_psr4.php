@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Composer\\Validate\\' => array($baseDir . '/src'),
+    'Package\\Validate\\' => array($baseDir . '/src'),
 );
