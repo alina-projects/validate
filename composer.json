@@ -1,12 +1,13 @@
 {
-    "name": "validate/data",
-    "description": "validate form data",
+    "name": "validate/validate",
+    "description": "validate data",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Validate\\Data\\": "src/"
+            "Validate\\Validate\\": "src/"
         }
     },
+    "minimum-stability": "beta",
     "require": {}
 }

@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Validate\\Data\\' => array($baseDir . '/src'),
+    'Validate\\Validate\\' => array($baseDir . '/src'),
 );

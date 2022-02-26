@@ -9,12 +9,12 @@ class ComposerStaticInitde8c90e221df41352cae9c1879f7486b
     public static $prefixLengthsPsr4 = array (
         'V' => 
         array (
-            'Validate\\Data\\' => 14,
+            'Validate\\Validate\\' => 18,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Validate\\Data\\' => 
+        'Validate\\Validate\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
