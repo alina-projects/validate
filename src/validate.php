@@ -1,6 +1,6 @@
 <?php
 
-namespace Validate\Validate;
+namespace Validate;
 
 class Validate {
 	public function validateData ($dataJson) {
