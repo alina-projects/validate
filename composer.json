@@ -1,15 +1,12 @@
 {
-    "name": "validate/validate",
+    "name": "alina/composer-package",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Validate\\Validate\\": "src/"
+            "Validate\\": "src/"
         }
     },
     "minimum-stability": "beta",
-    "require": {},
-    "repositories": [
-        {"type": "composer", "url": "https://alina.repo.repman.io"}
-    ]
+    "require": {}
 }
