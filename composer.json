@@ -8,5 +8,8 @@
         }
     },
     "minimum-stability": "beta",
-    "require": {}
+    "require": {},
+    "repositories": [
+        {"type": "composer", "url": "https://alina.repo.repman.io"}
+    ]
 }
